@@ -1,0 +1,1 @@
+ng build --prod --deploy-url="/cleaningservices/wp-content/themes/cleanbusiness/dist/"
